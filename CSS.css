@@ -1,0 +1,21 @@
+div{
+    display: inline-block;
+}
+div.section{
+    height: 130px;
+    width: 374px;
+    border: solid;
+    margin: 0 0px 20px 85px;
+    background-color: #999999;
+}
+h2.item{
+    float: right;
+    margin-top: 0;
+    border-bottom: solid;
+    border-left: solid;
+    font-size: 25% larger;
+}
+p.para{
+    margin: 37px 0 0 15px;
+    font:larger;
+}
